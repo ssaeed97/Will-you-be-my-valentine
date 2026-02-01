@@ -1,8 +1,8 @@
-# Will you go out with me?
+# Will you be my valentine?
 
 ## Overview
 
-**Will you go out with me** is a simple and playful project that adds a twist to the typical decision-making process. This project allows users to invite their friends to go out through a web interface. The catch? Saying "NO" becomes a bit challenging and amusing!
+**Will you be my valentine** is a simple and playful project that adds a twist to the typical decision-making process. This project allows users to invite their friends to go out through a web interface. The catch? Saying "NO" becomes a bit challenging and amusing!
 
 ## Technologies Used
 
