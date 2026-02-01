@@ -58,3 +58,12 @@ button:nth-child(2) {
     background: white;
     color: #e94d58;
 }
+
+#fx {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 9999;
+}

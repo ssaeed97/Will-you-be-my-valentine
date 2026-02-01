@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Will you go out with me? 🥹</title>
+    <title>Will you be my valentine? 🥹</title>
     <link rel="stylesheet" href="style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -13,8 +13,9 @@
     />
   </head>
   <body>
+    <canvas id="fx"></canvas>
     <div class="wrapper">
-      <h2 class="question">Will you go out with me?</h2>
+      <h2 class="question">Will you be my valentine?</h2>
       <img
         class="gif"
         alt="gif"
@@ -25,6 +26,12 @@
         <button class="no-btn">No</button>
       </div>
     </div>
+    <audio id="celebrate-audio" preload="auto">
+      <source src="clap-cheer.mp3" type="audio/mpeg" />
+      <!-- optional fallback -->
+      <!-- <source src="clap-cheer.ogg" type="audio/ogg" /> -->
+    </audio>
+
     <script src="script.js"></script>
     
   </body>
